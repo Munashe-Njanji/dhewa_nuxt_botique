@@ -41,9 +41,14 @@ export default defineNuxtConfig({
     componentIslands: true,
   },
 
-  // nitro: {
-  //   preset: 'netlify-static',
-  // },
+  nitro: {
+    preset: 'vercel',
+    storage: {
+      data: {
+        driver: 'vercelKV'
+      }
+    }
+  },
 
   app: {
     baseURL: '/', // defaulted by nuxt
