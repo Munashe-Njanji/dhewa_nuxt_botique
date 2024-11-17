@@ -225,16 +225,17 @@ const pg_font_urls = [
 
 const pg_backgrounds = {
   'design-image':
-    "url('https://images.unsplash.com/photo-1481437156560-3205f6a55735?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyMDkyMnwwfDF8c2VhcmNofDQ0fHxzaG9wcGluZyUyMGZhc2hpb258ZW58MHx8fHwxNzI1MDAwODgzfDA&ixlib=rb-4.0.3&q=80&w=1080')",
+    "url('https://images.unsplash.com/photo-1594969155368-f19485a9d88c?q=80&w=1470')",
   'design-image-large':
-    "url('https://images.unsplash.com/photo-1481437156560-3205f6a55735?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyMDkyMnwwfDF8c2VhcmNofDQ0fHxzaG9wcGluZyUyMGZhc2hpb258ZW58MHx8fHwxNzI1MDAwODgzfDA&ixlib=rb-4.0.3&q=80&w=2000')",
+    "url('https://images.unsplash.com/photo-1594969155368-f19485a9d88c?q=80&w=1470')",
 }
+
 
 const pg_background_urls = {
   'design-image':
-    'https://images.unsplash.com/photo-1481437156560-3205f6a55735?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyMDkyMnwwfDF8c2VhcmNofDQ0fHxzaG9wcGluZyUyMGZhc2hpb258ZW58MHx8fHwxNzI1MDAwODgzfDA&ixlib=rb-4.0.3&q=80&w=1080',
+    'https://images.unsplash.com/photo-1594969155368-f19485a9d88c?q=80&w=1470',
   'design-image-large':
-    'https://images.unsplash.com/photo-1481437156560-3205f6a55735?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wyMDkyMnwwfDF8c2VhcmNofDQ0fHxzaG9wcGluZyUyMGZhc2hpb258ZW58MHx8fHwxNzI1MDAwODgzfDA&ixlib=rb-4.0.3&q=80&w=2000',
+    'https://images.unsplash.com/photo-1594969155368-f19485a9d88c?q=80&w=1470',
 }
 
 export { pg_colors, pg_fonts, pg_font_urls, pg_backgrounds, pg_background_urls }
